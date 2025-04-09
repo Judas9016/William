@@ -11,7 +11,7 @@
 
 <div align="center">
     
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Brayan-724&column=4&theme=dark_lover&margin-w=10&&margin-h10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
     
   </a>
 </div>
@@ -24,8 +24,6 @@
 [![Rust](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=rust&logo=rust&labelColor=ea5b01)](www.rust-lang.org/)
 [![Html 5](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=html%205&logo=html5&labelColor=E34F26)](https://en.wikipedia.org/wiki/HTML5)
 [![Css 3](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=css%203&logo=css3&labelColor=1572B6)](https://en.wikipedia.org/wiki/CSS)
-[![C#](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=c%23%0A&logo=csharp&labelColor=5C2D91)](https://en.wikipedia.org/wiki/C_Sharp)
-[![C++](https://img.shields.io/static/v1?message=-&logoColor=white&style=for-the-badge&label=c%2B%2B&logo=c%2B%2B&labelColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 <img height="100" />
 
